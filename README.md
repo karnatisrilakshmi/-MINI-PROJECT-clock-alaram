@@ -29,6 +29,6 @@ How It Works:-
 
 Author:-
   Srilakshmi
-  Web Developer & Designer
+  Web page Development & Designing
 
      
